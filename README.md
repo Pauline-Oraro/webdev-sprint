@@ -11,7 +11,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 ### ✅ Week 1 — May 3-9 | Topic: _____________
 | # | Project | Live Demo | Key Concepts | Status |
 |---|---------|-----------|--------------|--------|
-| 01 | [Project Name](./01-WEEK/01-PROJECT) | HTML, CSS, JS | ✅ DONE |
+| 01 | [Color Palette Geerator](./01-WEEK/01-PROJECT) | HTML, CSS, JS | ✅ DONE |
 | 02 | [Project Name](./01-WEEK/02-PROJECT/) | HTML, CSS | ⬜ Not Started |
 
 ## 🗂️ Folder Structure
