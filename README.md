@@ -48,7 +48,7 @@ webdev-sprint/
 
 ---
 
-## ## 💡 Reflections
+## 💡 Reflections
 
 _A short note after each week of what you learned, struggled with, or want to explore further._
 
