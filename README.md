@@ -12,7 +12,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Color Palette Generator](./01-WEEK/01-PROJECT) | HTML, CSS, JS | ✅ Done |
-| 02 | [Project Name](./01-WEEK/02-PROJECT) | HTML, CSS | ⬜ Not Started |
+| 02 | [Simple Kanban Board](./01-WEEK/02-PROJECT) | HTML, CSS, JS | ✅ Done|
 
 ## 🗂️ Folder Structure
 
@@ -48,13 +48,13 @@ webdev-sprint/
 
 ---
 
-## 💡 Reflections
+## ## 💡 Reflections
 
 _A short note after each week of what you learned, struggled with, or want to explore further._
 
 | Week | Highlight | Challenge |
 |------|-----------|-----------|
-| 1 | | |
+| 1 | Learned event delegation and the HTML5 Drag & Drop API — two JS concepts that felt intimidating but clicked quickly through building | Getting `dragover` to allow dropping took debugging; `e.preventDefault()` is easy to miss but breaks everything without it |
 | 2 | | |
 | 3 | | |
 | ... | | |
