@@ -8,11 +8,17 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 
 ## 📅 Weekly Progress
 
-### ✅ Week 1 — May 3–9 | Topic: HTML & CSS Fundamentals
+### ✅ Week 1 — May 3–9 |
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Color Palette Generator](./01-WEEK/01-PROJECT) | HTML, CSS, JS | ✅ Done |
 | 02 | [Simple Kanban Board](./01-WEEK/02-PROJECT) | HTML, CSS, JS | ✅ Done|
+
+### ✅ Week 2 — May 10–16 |
+| # | Project | Key Concepts | Status |
+|---|---------|--------------|--------|
+| 01 | [Bookmark Saver](./02_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
+
 
 ## 🗂️ Folder Structure
 
