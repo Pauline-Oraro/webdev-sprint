@@ -18,6 +18,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Bookmark Saver](./02_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
+| 02 | [Currency Converter](./02_WEEK/02_PROJECT/) | HTML, CSS, JS | ✅ Done |
 
 
 ## 🗂️ Folder Structure
@@ -61,9 +62,8 @@ _A short note after each week of what you learned, struggled with, or want to ex
 | Week | Highlight | Challenge |
 |------|-----------|-----------|
 | 1 | Learned event delegation and the HTML5 Drag & Drop API — two JS concepts that felt intimidating but clicked quickly through building | Getting `dragover` to allow dropping took debugging; `e.preventDefault()` is easy to miss but breaks everything without it |
-| 2 | | |
+| 2 | Built a live currency converter using `fetch` and `async/await` — learned how to consume a real REST API, dynamically populate DOM elements from JSON data, and chain API calls based on user input | Populating both dropdowns from the same API response without duplicating logic took some thought; also easy to forget `e.preventDefault()` on form submit, which causes a page reload before the async function can run |
 | 3 | | |
-| ... | | |
 
 ---
 
