@@ -20,6 +20,11 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | 01 | [Bookmark Saver](./02_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
 | 02 | [Currency Converter](./02_WEEK/02_PROJECT/) | HTML, CSS, JS | ✅ Done |
 
+### ✅ Week 3 — May 17-23 |
+| # | Project | Key Concepts | Status |
+|---|---------|--------------|--------|
+| 01 | [Form Validator](./03_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
+
 
 ## 🗂️ Folder Structure
 
