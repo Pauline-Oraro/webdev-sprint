@@ -26,6 +26,11 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | 01 | [Form Validator](./03_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
 | 01 | [Password Generator](./03_WEEK/02_PROJECT) | HTML, CSS, JS | ✅ Done |
 
+### ✅ Week 4 — May 24-30 |
+| # | Project | Key Concepts | Status |
+|---|---------|--------------|--------|
+| 01 | [Contact Form](./04_WEEK/01_PROJECT) | HTML, CSS | ✅ Done |
+
 
 ## 🗂️ Folder Structure
 
