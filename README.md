@@ -75,7 +75,8 @@ _A short note after each week of what you learned, struggled with, or want to ex
 |------|-----------|-----------|
 | 1 | Learned event delegation and the HTML5 Drag & Drop API — two JS concepts that felt intimidating but clicked quickly through building | Getting `dragover` to allow dropping took debugging; `e.preventDefault()` is easy to miss but breaks everything without it |
 | 2 | Built a live currency converter using `fetch` and `async/await` — learned how to consume a real REST API, dynamically populate DOM elements from JSON data, and chain API calls based on user input | Populating both dropdowns from the same API response without duplicating logic took some thought; also easy to forget `e.preventDefault()` on form submit, which causes a page reload before the async function can run |
-| 3 | | |
+| 3 | Learned real-time input validation using regex and built a configurable password generator with character-set logic — DOM manipulation finally felt purposeful | Getting regex right for email/password validation took real trial and error; also had to decide *when* to validate (blur vs input vs submit) so the UX doesn't feel punishing |
+| 4 | Pure HTML & CSS week — no JavaScript — which forced intentional layout thinking; the pricing cards were a great Flexbox/Grid exercise and the contact form reinforced semantic HTML (`<fieldset>`, `<label>`, proper `<input>` types) | Consistent card heights and alignment across screen sizes without JS was trickier than expected; had to fully commit to CSS transitions and pseudo-classes instead of reaching for JS for interactivity |
 
 ---
 
