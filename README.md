@@ -36,6 +36,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Gender Predicter](./05_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
+| 02 | [Recipe Finder App](./05_WEEK/02_PROJECT) | HTML, CSS, JS | ✅ Done |
 
 
 ## 🗂️ Folder Structure
