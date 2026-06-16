@@ -44,6 +44,12 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | 01 | [Chat List UI](./06_WEEK/01_PROJECT) | HTML, CSS | ✅ Done |
 | 02 | [Blog Card](./06_WEEK/02_PROJECT) | HTML, CSS | ✅ Done |
 
+### ✅ Week 6 — June 14-20 |
+| # | Project | Key Concepts | Status |
+|---|---------|--------------|--------|
+| 01 | [Split Page Design](./07_WEEK/01_PROJECT) | HTML, CSS | ✅ Done |
+
+
 
 
 ## 🗂️ Folder Structure
