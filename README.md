@@ -48,6 +48,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Split Page Design](./07_WEEK/01_PROJECT) | HTML, CSS | ✅ Done |
+| 02 | [Stats Cards](./07_WEEK/02_PROJECT) | HTML, CSS | ✅ Done |
 
 
 
