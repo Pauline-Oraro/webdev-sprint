@@ -54,6 +54,7 @@ Build **24 web projects** across 12 weeks to sharpen my web development skills a
 | # | Project | Key Concepts | Status |
 |---|---------|--------------|--------|
 | 01 | [Quote Generator](./08_WEEK/01_PROJECT) | HTML, CSS, JS | ✅ Done |
+| 01 | [Password Toggle](./08_WEEK/02_PROJECT) | HTML, CSS, JS | ✅ Done |
 
 
 
